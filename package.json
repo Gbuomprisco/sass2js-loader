@@ -1,0 +1,28 @@
+{
+  "name": "sass2js-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader for sass2js",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "sass2js": "0.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbuomprisco/sass2js-loader.git"
+  },
+  "keywords": [
+    "sass",
+    "to",
+    "js"
+  ],
+  "author": {
+    "name": "Giancarlo Buomprisco",
+    "email": "giancarlopsk@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gbuomprisco/sass2js-loader/issues"
+  },
+  "homepage": "https://github.com/gbuomprisco/sass2js-loader#readme"
+}
